@@ -1,6 +1,6 @@
-li.voice-state:not([data-reactid*="DISCORD USER'S ID"]) { display:none; }
+li.voice-state:not([data-reactid*=705049274534068275]) { display:none; }
 .avatar {
-content:url(DISCORD URL IMAGE LINK FOR IDLE PNG/GIF);
+content:url();
 height:auto !important;
 width:auto !important;
 border-radius:0% !important;
