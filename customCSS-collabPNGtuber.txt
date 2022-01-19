@@ -1,6 +1,6 @@
 li.voice-state:not([data-reactid*="DISCORD USER'S ID"]) { display:none; }
 .avatar {
-content:url(DISCORD URL IMAGE LINK FOR IDLE PNG/GIF);
+content:url(https://cdn.discordapp.com/attachments/929091296851808256/933270822095839242/fiend.png);
 height:auto !important;
 width:auto !important;
 border-radius:0% !important;
@@ -14,7 +14,7 @@ animation-name: speak-now;
 animation-duration: 1s;
 animation-fill-mode:forwards;
 filter: brightness(100%);
-content:url(DISCORD URL IMAGE LINK FOR TALKING PNG/GIF);
+content:url(https://cdn.discordapp.com/attachments/929091296851808256/933270822326521866/fiend2.png);
 }
 
 @keyframes speak-now {
